@@ -136,8 +136,8 @@ Ideias para evoluir o projeto:
 
 Desenvolvido por **[Seu Nome]** como projeto de estudo de desenvolvimento back-end com Java e Spring Boot.
 
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-usuario)
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/pablo-fernandes-melo/)
+- GitHub: [@seu-usuario](https://github.com/PabloFMelo)
 
 ---
 
